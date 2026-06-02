@@ -38,5 +38,5 @@ La simulación muestra que los tres cajeros permiten operar el sistema con un ti
 
 ## Autores
 
-- Nombre del estudiante 1
-- Nombre del estudiante 2
+- Camilo Londoño
+- Miguel Morales
