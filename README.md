@@ -36,6 +36,10 @@ Cada tipo de usuario tiene un tiempo promedio de llegada y un tiempo promedio de
 
 La simulación muestra que los tres cajeros permiten operar el sistema con un tiempo promedio de espera aceptable. Sin embargo, el tiempo promedio total en el sistema queda ligeramente por encima del criterio aceptable, por lo que se recomienda una mejora preventiva para reducir los tiempos asociados a usuarios lentos y muy lentos.
 
+## Link colab
+
+https://colab.research.google.com/drive/1pFqa_2Ok-_Sb2l3tvfsAj-i6Y5lnnoi5?usp=sharing
+
 ## Autores
 
 - Camilo Londoño
